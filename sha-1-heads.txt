@@ -1,0 +1,11 @@
+main: 6ea420c
+C: 21163ee
+C++: 9bfbea4
+C#: ead9f60
+python: 6fa2c90
+Java: 737f916
+JS: e9a3147
+Kotlin: bb07e57
+REACT: e0f0776
+PHP: caa28e8
+Ruby: b90a163
